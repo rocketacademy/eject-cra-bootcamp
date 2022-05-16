@@ -1,6 +1,6 @@
-# Rocket Academy Coding Bootcamp: Create React App Template
+# Rocket Academy Coding Bootcamp: Eject CRA
 
-TODO: Add exercise name to README title, link to exercise page, update app name in `package.json`, run `npm i` to update `package-lock.json`.
+https://bc.rocketacademy.co/2-full-stack/2.3-advanced-react/2.3.6-eject-cra
 
 ## Available Scripts
 
